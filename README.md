@@ -3,12 +3,23 @@
 An Obsidian knowledge graph exploring the philosophical tensions and complementary approaches between three Claude-related projects:
 
 - **[Claude-UltraThink](Projects/Claude-UltraThink/)** - Single-agent methodology based on Cognition.ai research
+  - 🔗 [GitHub Repository](https://github.com/devdotbo/claude-ultrathink) (coming soon)
 - **[Claude-AM](Projects/Claude-AM/)** - Multi-agent orchestration system
+  - 🔗 [GitHub Repository](https://github.com/devdotbo/claude-am) (coming soon)
 - **[Claude-Contexify](Projects/Claude-Contexify/)** - Context window optimization strategies
+  - 🔗 [GitHub Repository](https://github.com/devdotbo/claude-contexify) (coming soon)
 
 ## Overview
 
 This knowledge graph visualizes the relationships, tensions, and complementary aspects of different approaches to AI development with Claude. It's built using Obsidian's linked note system and follows UltraThink's linear processing methodology.
+
+## 📊 Current Status
+
+- ✅ Knowledge graph structure complete with 40+ notes
+- ✅ Core documentation extracted from all three projects
+- ✅ Automation scripts created and ready for testing
+- ⚠️ Scripts need manual execution (see [TESTING_STATUS.md](TESTING_STATUS.md))
+- 📋 Full project details in [PROJECT_SUMMARY.md](PROJECT_SUMMARY.md)
 
 ## Key Philosophical Tensions
 
@@ -51,10 +62,15 @@ This knowledge graph visualizes the relationships, tensions, and complementary a
 
 ## Automation Scripts
 
-- `extract_docs.py` - Extract documentation from source projects
-- `create_core_notes.py` - Generate concept and comparison notes
-- `sync_knowledge.py` - Sync updates from source repositories
-- `generate_links.py` - Auto-generate relationship links
+- ✅ `extract_docs.py` - Extract documentation from source projects
+- ✅ `create_core_notes.py` - Generate concept and comparison notes
+- ✅ `generate_links.py` - Analyze links and suggest improvements
+- 🚧 `sync_knowledge.py` - Sync updates from source repositories (planned)
+
+### Testing Scripts
+- `test_scripts.py` - Comprehensive test harness
+- `simple_test.py` - Quick validation check
+- See [TESTING_STATUS.md](TESTING_STATUS.md) for testing instructions
 
 ## Maintenance
 
@@ -98,6 +114,17 @@ Best viewed in Obsidian with:
 - Graph View for relationship visualization
 - Canvas for architectural comparisons
 - Dataview for dynamic queries
+
+## Repository Organization
+
+This ecosystem is organized into multiple repositories:
+
+1. **claude-ecosystem** (this repository) - Central documentation and knowledge graph
+2. **claude-ultrathink** - Simple single-agent implementation
+3. **claude-am** - Multi-agent orchestration framework
+4. **claude-contexify** - Context window optimization tools
+
+Each repository is independent but documented here for comparison and analysis.
 
 ## License
 

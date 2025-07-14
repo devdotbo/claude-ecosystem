@@ -28,6 +28,7 @@ venv/
 .vscode/
 .idea/
 *.iml
+.ropeproject/
 
 # Log files
 *.log
@@ -35,3 +36,6 @@ venv/
 # Build artifacts
 dist/
 build/
+
+# Project templates (temporary)
+_project_templates/
