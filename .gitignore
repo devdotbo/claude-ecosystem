@@ -36,6 +36,3 @@ venv/
 # Build artifacts
 dist/
 build/
-
-# Project templates (temporary)
-_project_templates/

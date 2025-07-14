@@ -3,11 +3,11 @@
 An Obsidian knowledge graph exploring the philosophical tensions and complementary approaches between three Claude-related projects:
 
 - **[Claude-UltraThink](Projects/Claude-UltraThink/)** - Single-agent methodology based on Cognition.ai research
-  - 🔗 [GitHub Repository](https://github.com/devdotbo/claude-ultrathink) (coming soon)
+  - 🔗 [GitHub Repository](https://github.com/devdotbo/claude-ultrathink)
 - **[Claude-AM](Projects/Claude-AM/)** - Multi-agent orchestration system
-  - 🔗 [GitHub Repository](https://github.com/devdotbo/claude-am) (coming soon)
+  - 🔗 [GitHub Repository](https://github.com/devdotbo/claude-am)
 - **[Claude-Contexify](Projects/Claude-Contexify/)** - Context window optimization strategies
-  - 🔗 [GitHub Repository](https://github.com/devdotbo/claude-contexify) (coming soon)
+  - 🔗 [GitHub Repository](https://github.com/devdotbo/claude-contexify)
 
 ## Overview
 
